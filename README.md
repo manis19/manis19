@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
+Currently in progress.  
+I’m actively working through the Blue Team Pathway and SOC Level 1 labs.  
+Badge and certificate links will be added upon completion.
 
-<!--
-**manis19/manis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity enthusiast | SOC Analyst in training  
+📜 Certified in Google Cybersecurity (Coursera)  
+🛡️ Currently working through TryHackMe Blue Team Pathway  
+💻 Projects: Log analysis, SIEM dashboards, incident response scripts  
+🌍 Based in Italy, active in Northern Europe timezone
 
-Here are some ideas to get you started:
+## 🔗 Featured Projects
+- `cybersec-projects`: Hands-on cybersecurity labs and tools  
+- `certifications`: My verified badges and certificates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
